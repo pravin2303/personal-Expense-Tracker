@@ -40,10 +40,10 @@ Make sure you have **Node.js & npm** installed ([install with nvm](https://githu
 
 ```sh
 # Step 1: Clone the repository
-git clone <YOUR_GIT_URL>
+git clone <(https://github.com/pravin2303/personal-Expense-Tracker)>
 
 # Step 2: Navigate into the project folder
-cd <YOUR_PROJECT_NAME>
+cd <personal-Expense-tracker>
 
 # Step 3: Install dependencies
 npm install
