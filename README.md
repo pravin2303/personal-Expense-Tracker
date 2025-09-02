@@ -4,6 +4,8 @@ A modern and intuitive web application to track your daily expenses, analyze spe
 Built using **React, TypeScript, Tailwind CSS, and shadcn-ui** with **Vite** for a lightning-fast development experience.  
 
 
+🔗 **Live Demo**: [Personal Expense Tracker](https://personal-expense-tracker-umber.vercel.app)  
+
 ---
 
 ## 🚀 Features
