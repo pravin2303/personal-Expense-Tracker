@@ -49,4 +49,4 @@ cd <personal-Expense-tracker>
 npm install
 
 # Step 4: Start development server
-npm run dev
+npm run dev 
